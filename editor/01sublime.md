@@ -22,6 +22,6 @@ Sublime Textにはパッケージ管理（Package Control）という仕組み�
 
 パッケージの追加については以下のリンク先を参考にしてください。
 
-+ [Emmetパッケージのインストール]()
-+ [IME Supportパッケージのインストール（Windowsのみ）]()
++ [Emmetパッケージのインストール](https://github.com/murayama333/pg_docs/blob/master/editor/02sublime_emmet.md)
++ [IME Supportパッケージのインストール（Windowsのみ）](https://github.com/murayama333/pg_docs/blob/master/editor/03sublime_ime.md)
 
