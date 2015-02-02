@@ -11,14 +11,24 @@ Sublime Textはプログラムを書くのに適したエディタです。無�
 
 Sublime Textにはパッケージ管理（Package Control）という仕組みがあります。パッケージ管理を有効にすれば、簡単に機能を追加することができます。まずはパッケージ管理機能を有効にしておきましょう。
 
-以下のサイトを参考にパッケージ管理機能を有効にします。
+以下のサイトを参考にパッケージ管理機能を有効にします（手順は後述します）。
 
 [https://packagecontrol.io/installation#st2](https://packagecontrol.io/installation#st2)
 
+
+上記のサイトを開いて、表示されている「import urllib2〜installation')」までをコピーします。
+
+![](./img/image0101.png)
+
+次に、SublimeTextの画面上のメニューからView > Show Consoleを選択して、画面下部に表示された入力エリアにコピーした内容を貼付けてENTETキーを押します。
+
+![](./img/image0102.png)
+
+数秒すると、パッケージ管理機能のインストールは完了します。インストール後、Sublime Text2を再起動するとパッケージ管理機能が有効になります。
+
 > インストールしたらSublime Textを再起動します。
 
-
-## パッケージを追加する
+## パッケージを追加するには
 
 パッケージの追加については以下のリンク先を参考にしてください。
 
