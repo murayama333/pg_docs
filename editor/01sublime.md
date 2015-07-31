@@ -20,7 +20,7 @@ Sublime Textにはパッケージ管理（Package Control）という仕組み�
 
 ![](./img/image0101.png)
 
-次に、SublimeTextの画面上のメニューからView > Show Consoleを選択して、画面下部に表示された入力エリアにコピーした内容を貼付けてENTETキーを押します。
+次に、SublimeTextの画面上のメニューからView > Show Consoleを選択して、画面下部に表示された入力エリアにコピーした内容を貼付けてENTERキーを押します。
 
 ![](./img/image0102.png)
 
